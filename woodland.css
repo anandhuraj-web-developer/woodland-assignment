@@ -1,0 +1,126 @@
+
+
+.btn{
+    background:white;
+    color: black;
+    border-radius: 0%;
+    padding: 10px 40px ;
+}
+
+
+.card-body1
+{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    bottom: 130px;
+    overflow: hidden;
+}
+
+.shop{
+    
+    padding: 10px 20px;
+    position: relative;
+    left: 30px;
+    bottom: 80px;
+
+}
+
+#fgh li a{
+    color:green;
+}
+
+#fnav li a{
+    color: white;
+}
+
+
+.card-body2
+{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    bottom: 100px;
+    right: 250px;
+}
+.men$women{
+    color: black;
+    text-decoration: none;
+}
+
+.button{
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn1{
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    background-color: transparent;
+    border: 2pt white solid;
+    padding: 5px 20px;
+}
+
+.article p{
+    font-size: 24px;
+
+}
+.article{
+    text-align: center;
+}
+
+footer{
+    margin-top: 20px;
+    background-color: #006400;
+    color: white;
+    padding: 60px 30px;
+}
+
+footer h2 ,h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.ultag li a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+
+}
+.ultag li{
+    list-style: none;
+    color: white;
+}
+
+.move{
+    position: relative;
+    left: 70px;
+}
+.email{
+    display: flex;
+    
+}
+.email input , button {
+    padding: 10px;
+    background-color: white;
+    border: white;
+}
+
+.list ul{
+    display: flex;
+    gap: 30px;
+    list-style-type: none;
+}
+
+.list ul li a {
+    text-decoration: none;
+    color: white;
+}
